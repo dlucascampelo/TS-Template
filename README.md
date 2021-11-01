@@ -12,8 +12,8 @@
 
 Para instalar e utilizar esse template o processo é bem simples, basta criar um novo projeto utilizando o comando:
 
-```diff
-+ react-native init AwesomeExample --template smaug-ts-template
+```
+react-native init AwesomeExample --template smaug-ts-template
 ```
 
 Com isso o projeto será criado com todas as dependências do template devidamente instaladas e linkadas, tal como os arquivos de configuração que são copiados para o projeto.
