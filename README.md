@@ -10,7 +10,7 @@
 
 **<h2>Instalação</h2>**
 
-    Para instalar e utilizar esse template o processo é bem simples, basta criar um novo projeto utilizando o comando:
+Para instalar e utilizar esse template o processo é bem simples, basta criar um novo projeto utilizando o comando:
 
 ```diff
 + react-native init AwesomeExample --template smaug-ts-template
