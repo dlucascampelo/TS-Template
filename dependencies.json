@@ -1,8 +1,6 @@
 {
-  "@react-navigation/native": "^6.0.4",
-  "@react-navigation/stack": "^6.0.9",
-  "react-native-gesture-handler": "^1.10.3",
-  "react-native-safe-area-context": "^3.3.2",
-  "react-native-screens": "^3.8.0",
-  "react-native-svg": "^12.1.1"
+  "@react-navigation/native": "latest",
+  "@react-navigation/stack": "latest",
+  "react-native-gesture-handler": "latest",
+  "react-native-safe-area-context": "latest"
 }
